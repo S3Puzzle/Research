@@ -1,6 +1,7 @@
 ## How do you make a git runner?
 
 ### Question exploration
+What are the advantages of a custom runner?
 What information is available?
 
 How can I implement the available information?
