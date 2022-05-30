@@ -1,6 +1,8 @@
-# How do you make a git runner?
+# How can I use a custom git runner to improve my ci/cd pipeline?
 
 ## Question exploration
+How do you make a git runner?
+
 What are the advantages of a custom runner?
 
 What information is available?
