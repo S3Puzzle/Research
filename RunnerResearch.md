@@ -6,16 +6,16 @@ What are the advantages of a custom runner?
 - Literature study
 
 What information is available?
-Literature study
+- Literature study
 
 How can I implement the available information?
-Brainstorm
+- Brainstorm
 
 How do you make a git runner?
-Prototyping
+- Prototyping
 
 What is quality of my product?
-System test
+- System test
 
 ## What are the advantages of a custom runner?
 
