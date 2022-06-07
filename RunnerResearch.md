@@ -3,7 +3,7 @@
 ## Question exploration
 
 What are the advantages of a custom runner?
--Literature study
+- Literature study
 
 What information is available?
 Literature study
