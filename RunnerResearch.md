@@ -26,3 +26,5 @@ One of the most important advantages of using a self-hosted runner is that they 
 
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners
 
+## How can I implement the available information?
+
