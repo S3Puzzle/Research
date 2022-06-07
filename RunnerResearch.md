@@ -27,4 +27,5 @@ One of the most important advantages of using a self-hosted runner is that they 
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners
 
 ## How can I implement the available information?
+I will select an tutorial to follow. This selecting is based on multiple factors, one of them being views. After that I will use the tutorial in combination with the information on github docs to make my self-hosted runner.
 
