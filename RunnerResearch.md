@@ -33,3 +33,5 @@ I will select an tutorial to follow. This selecting is based on multiple factors
 I decided on using this the tutorial, it was very clear and didn't need additional programs. This in combination with the directions github it self provides, when you add a new runner, helped me create my first selfhosted runner. The steps were staight forward and I managed to create a simple windows runner on my desktop. 
 https://www.youtube.com/watch?v=SASoUr9X0QA
 
+## What is quality of my product?
+I tested the runner on my project. It didn't work at first, because of the my desktop was set to refuse to run scripts. After changin the execution policy off my localmachine, everything worked.
