@@ -39,3 +39,5 @@ https://www.youtube.com/watch?v=SASoUr9X0QA
 
 ## What is quality of my product?
 I tested the runner on my project. It didn't work at first, because of the my desktop was set to refuse to run scripts. After changin the execution policy off my localmachine, running scripts was possible. The only remaining problem is that my self-hosted runner runs on windows. This is a problem when I want to use it for my project in this semester. The reason for this is, that I setup a mysql database in my workflow. The setup code is linux and I have not yet figured out how to translate it to windows.
+
+Changing the execution policy: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2
