@@ -30,7 +30,10 @@ https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-ru
 I will select an tutorial to follow. This selecting is based on multiple factors, one of them being how easy they are to implement. After that I will use the tutorial in combination with the information on github docs to make my self-hosted runner.
 
 ## How do you make a git runner?
-I decided on using this the tutorial, it was very clear and didn't need additional programs. This in combination with the directions github it self provides, when you add a new runner, helped me create my first selfhosted runner. The steps were staight forward and I managed to create a simple windows runner on my desktop. 
+I decided on using this the tutorial, it was very clear and didn't need additional programs. This in combination with the directions github it self provides, when you add a new runner, helped me create my first selfhosted runner. The steps were staight forward and I managed to create a simple windows runner on my desktop. Here you can see where I made the runner. You can also see that the runner is running.
+
+![image](https://user-images.githubusercontent.com/49039524/173041063-5a3abe34-21c7-4203-bb2d-e30b7302792b.png)
+
 
 https://www.youtube.com/watch?v=SASoUr9X0QA
 
