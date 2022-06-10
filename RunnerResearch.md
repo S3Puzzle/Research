@@ -31,6 +31,7 @@ I will select an tutorial to follow. This selecting is based on multiple factors
 
 ## How do you make a git runner?
 I decided on using this the tutorial, it was very clear and didn't need additional programs. This in combination with the directions github it self provides, when you add a new runner, helped me create my first selfhosted runner. The steps were staight forward and I managed to create a simple windows runner on my desktop. 
+
 https://www.youtube.com/watch?v=SASoUr9X0QA
 
 ## What is quality of my product?
