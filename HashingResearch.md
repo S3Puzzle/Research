@@ -30,3 +30,4 @@ https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=
 
 https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
 
+## How do hashing algorithms work?
