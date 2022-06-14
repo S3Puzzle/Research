@@ -20,7 +20,7 @@ How can I use hashing algorithms?
 
 ## What different kinds of hashing algorithms are there?
 
-Two of the most popular hashing algorithms are MD5 and SHA. MD stands for Message Digest and MD5 is the fifth version. SHA stands for Secure Hash Algorithms and is a group of diffrent hashing algorithms. They are first two algorithms were SHA-0 and SHA-1. After these two cam SHA-2 and SHA-3, these can be seperated in more versions. These versions differ in outcome size and other important parameters. 
+Two of the most popular hashing algorithms are MD5 and SHA. MD stands for Message Digest and MD5 is the fifth version. SHA stands for Secure Hash Algorithms and is a group of diffrent hashing algorithms. They are first two algorithms were SHA-0 and SHA-1. After these two cam SHA-2 and SHA-3, these can be seperated in more versions. These versions differ in outcome size and other important parameters. There are a lot more types of hashing algoritme and they all work slightly diffrent and have there own advantages.
 
 https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=The%20most%20common%20hash%20functions,(SHA)%201%20and%202
 
@@ -37,3 +37,10 @@ Hashing algorithms are often used to secure passwords. When a user enters a pass
 
 Like earlier stated, hashing algorithm are often used to secure passwords. This protects passwords, when there is a data leak. This isn't perfect. Basic password can still be stolen by using a rainbow table.(https://www.geeksforgeeks.org/understanding-rainbow-table-attack/) Storing passwords is not the only thing hashing algoritms are used for. It can also be used for digital signatures or to authenticate data. (https://www.okta.com/identity-101/hashing-algorithms/)
 
+## How can I use hashing algorithms?
+
+While I don't have enough security knowledge to save passwords myself, I still think there are some uses for hashing algoritms. For my indidual project I make a site with a daily puzzle. The answer of the is stored in a database. I could hash the answer to protect it from player that try to steal it. While I don't save passwords, I do save e-mails and names. I could hash to emails to protect players in the case of a data leak.
+
+## Conclusion
+
+There are a lot of different hashing algorithms. They all work a bit different and it can be hard to pick the best one. While in other cases you often pick the most populair choice, this is with hashing algorithms often not advised. This is because the more populair the algorithms is, the more extensive the rainbow tables and other ways to be beat them are. An interesting conclusion is that there are a lot more cases than just passwords to use hashing for. Using it for authentication and encryption in general is very usefull.
