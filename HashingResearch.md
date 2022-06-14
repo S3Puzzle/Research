@@ -28,10 +28,12 @@ https://www.okta.com/identity-101/hashing-algorithms/
 
 https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=Some%20common%20hashing%20algorithms%20include,very%20commonly%20used%20hashing%20algorithm
 
-https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
 
 ## How do hashing algorithms work?
 
-Hashing algorithms are often used to secure passwords. When a user enters a password the hashing algoritm turns the password into a hash before storing it. When the user tries to login and enters the password, the entry is put in the hashing algoritm. If the hash is the same, the password is the same. This way you can use a password, without actualy having to store the exact password. How the hashing algorithm transforms your input into a hash, is different per algorithm. All of them are incredibly complex to ensure that you can't reverse a hash. MD5 for example starts by adding extra bits to the input. (https://www.educba.com/md5-alogrithm/) This is called padding. This is done to make sure that the length of the input modulo 512 is 448. This is done because in the next step, there are 64 bits inserted on the end of the input. The padding ensures that the length of the input now always equals to a multitude of 512. After the this there are 4 rounds with 16 operations each encrypting the message. 
+Hashing algorithms are often used to secure passwords. When a user enters a password the hashing algoritm turns the password into a hash before storing it. When the user tries to login and enters the password, the entry is put in the hashing algoritm. If the hash is the same, the password is the same. This way you can use a password, without actualy having to store the exact password. How the hashing algorithm transforms your input into a hash, is different per algorithm. All of them are incredibly complex to ensure that you can't reverse a hash. MD5 for example starts by adding extra bits to the input. (https://www.educba.com/md5-alogrithm/) This is called padding. This is done to make sure that the length of the input modulo 512 is 448. This is done because in the next step, there are 64 bits inserted on the end of the input. The padding ensures that the length of the input now always equals to a multitude of 512. After the this there are 4 rounds with 16 operations each encrypting the message. This part is very complex making it next to impossible to reverse.
 
+## Why are hashing algorithms used?
+
+Like earlier stated, hashing algorithm are often used to secure passwords. This protects passwords, when there is a data leak. This isn't perfect. Basic password can still be stolen by using a rainbow table.(https://www.geeksforgeeks.org/understanding-rainbow-table-attack/) Storing passwords is not the only thing hashing algoritms are used for. It can also be used for digital signatures or to authenticate data. (https://www.okta.com/identity-101/hashing-algorithms/)
 
