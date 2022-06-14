@@ -31,3 +31,8 @@ https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=
 https://en.wikipedia.org/wiki/Secure_Hash_Algorithms
 
 ## How do hashing algorithms work?
+
+Hashing algorithms are often used to secure passwords. When a user enters a password the hashing algoritm turns the password into a hash before storing it. When the user tries to login and enters the password, the entry is put in the hashing algoritm. If the hash is the same, the password is the same. This way you can use a password, without actualy having to store the exact password. How the hashing algorithm
+
+
+
