@@ -1,17 +1,17 @@
-# How can I use a custom git runner to improve my ci/cd pipeline?
+# What can a self-hosted git runner add to my project?
 
 ## Question exploration
 
 What information is available?
 - Literature study
 
-What are the advantages of a custom runner?
+What are the advantages of a self-hosted git runner?
 - Literature study
 
 How can I implement the available information?
 - Brainstorm
 
-How do you make a git runner?
+How do you make a self-hosted git runner?
 - Prototyping
 
 What is quality of my product?
