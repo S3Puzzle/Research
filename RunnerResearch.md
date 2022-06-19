@@ -1,4 +1,4 @@
-# What can a self-hosted git runner add to my project?
+# What can a self-hosted git runner add to my projects?
 
 ## Question exploration
 
